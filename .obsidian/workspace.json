@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude/Skills.md",
+                "file": "ProductionIdeas/Tiger Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Tiger Characters"
             }
           }
         ],
@@ -193,8 +193,10 @@
   },
   "active": "92f28e694029829d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Claude/Skills.md",
+    "ProductionIdeas/Tiger Characters.md",
+    "ProductionIdeas",
+    "Untitled.md",
     "Passwords.md",
     "Claude/Agenets",
     "Untitled 1",
