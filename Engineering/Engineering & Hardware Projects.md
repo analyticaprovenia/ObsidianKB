@@ -121,3 +121,64 @@ tags: [engineering, hardware, diy, sustainability, manufacturing, electronics]
 - Windows/doors factory
 - Brick/block production
 - Concrete plant
+
+---
+
+## Workshop Equipment Wishlist
+- [ ] Fine soldering iron
+- [ ] Project holder
+- [ ] Microscope / computer microscope
+- [ ] Exhaust fan (for fumes)
+- [ ] Small drill press
+- [ ] Small lathe
+- [ ] Variable power supply
+- [ ] Oscilloscope
+- [ ] 2-axis CNC machine
+- [ ] Actuated armature for nail gun
+
+## Home Automation (Specific)
+- Access card machine
+- GSM board
+- Networked garage door (upgradeable site interface)
+- Wireless light socket / switch
+- Small solar system (expandable)
+
+## Means of Production Equipment — Detail
+Full list for a community production facility:
+- Soap presses
+- Toothpaste mixers
+- Makeup moulds
+- Chemical testers
+- Kitchen equipment
+- Industrial bottling machines (customers come and fill their own bottles)
+- Electronic repair equipment
+- Industrial sewing equipment
+- Shoe sole moulds
+- Car repair + remodeling (interior/exterior, parts recycling)
+- CNC machines
+- Jewellery manufacturing equipment
+- Multi-printing equipment
+- Machining tools to make one-off moulds for presses
+- Open-source brand names with quality control
+
+## Can-Am Trailer Types
+Modular workshop trailers for mobile production:
+- Woodwork trailer
+- Metalwork trailer
+- Electrical trailer
+- Food trailer (with appliances)
+- Specialty medical trailer
+
+## Dev Co — Housing Vision
+House 1 million people:
+- Energy and water self-sufficient per development
+- Each local area has a cache server
+- Each home has a small server
+- Internet self-sufficient (distributed)
+- Provide model for sustainable design
+- Wall manufacturing: inputs for other companies to make affordable sustainable housing
+- Build efficient appliances to make solar more accessible
+- Create infrastructure for decentralised internet
+- Build mass transit systems
+- Build tools and means of production equipment
+- Provide employment in poor areas

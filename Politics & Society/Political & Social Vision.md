@@ -177,3 +177,17 @@ A hierarchy of needs to be met locally, not corporately:
 
 ### Geopolitical Goal
 Make NZ the Switzerland of the Pacific — neutral, prosperous, self-sufficient.
+
+---
+
+## Reference Cities for Solutions Research
+Study these cities for housing, planning, and policy comparisons:
+- Auckland
+- Vancouver
+- San Francisco
+- Hong Kong
+
+## Immigration & Wealth Policy
+- If the issue is humanitarian, don't allow wealthy immigrants to move money out of their home country — this continues economic disparity between nations
+- Only allow in refugees when humanitarian need is the stated purpose
+- Fast tracking developments: document examples of problems caused (research topic)

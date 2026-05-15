@@ -104,3 +104,32 @@ Aim for extreme stretch for muscle growth.
 - **Urban planning** from the perspective of a skateboarder
 - Writing: thriller/mystery novel
 - Building: estate, tower, bridge (long-term)
+
+---
+
+## Music
+
+### Playlists & Recommendations
+
+**Rock / Alt**
+- Papa Roach, Rockstar (Nickelback?), NIN, Matrix soundtrack, Alice in Chains
+- Du Hast (Rammstein), Immigrant Song (Led Zeppelin), The Chain (Fleetwood Mac)
+- Hooked on a Feeling
+- Against the Grain, Death Cab for Cutie
+
+**Indie / Folk / Pop**
+- Everytime We Kiss, Why Can't I
+- The Girl, Bittersweet
+- Hallelujah (Rufus Wainwright)
+- Lana Del Rey, Tom Petty, One Tree Hill (U2)
+- Float On (Modest Mouse)
+- You Don't Know What You Got Till It's Gone
+- Jason Isbell, Steve Earle
+- Imagine Dragons, Tash Sultana
+
+**Artists to follow**
+- Copeland, Jose González
+
+### Websites
+- pudding.cool
+- distill.pub

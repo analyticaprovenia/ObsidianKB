@@ -315,3 +315,40 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
   - Where you work
   - Where you pay taxes
   - Where your house is
+
+---
+
+## Canadian Business Strategy (Can-Am Vision)
+
+A framework for building Canadian alternatives to US corporate dominance — funding development with Canadian capital and labour.
+
+### Construction Model
+- Pay America for land (border/development areas)
+- Mortgage from Canadian bank
+- Hire Canadians/Mexicans to drive down + deliver heavy equipment and portable homes
+- Workers finish earthworks, concrete (delivered + finished by C/M workers)
+- Use walls from C/M factory with C/M inputs
+- Hire C/M to deliver and set up houses (live-in cab model)
+
+### Canadian Company Alternatives
+
+| Canadian Co | Replaces | Focus |
+|---|---|---|
+| Blackberry | Apple | IoT + business security, lead in IoT + enterprise |
+| Bombardier | General Dynamics | Planes + military vehicles (domestic + export) |
+| SNC-Lavalin | US engineering cos | All Canadian projects + US projects |
+| Enviro-Collection | Waste mgmt | Collect US waste → bring to Canada → recycle/compost/reuse (wood, plastic, drywall) |
+| Forestry Co | Weyerhaeuser | Increase exports via Arctic Ocean |
+| Hamilton Steel | US Steel | Cover all domestic use |
+| Alcan Parts | Alcoa | Produce windows from aluminium |
+| Glass Co | — | Domestic glass production |
+| Plastic Product Co | DuPont | Use recycled material |
+| VanCity Home Loans/Ins | Fannie Mae | Reduce US bank investment in Canadian mortgages |
+| News/Product/Media Site | Google | Alternative to establishment media + product discovery |
+| AC Rochester / Dev-Co | — | Sell housing to US |
+| Independent Power Co | Coal/Gas | Solar + wind for developments; 18v appliances for sustainable houses |
+| Can-Am Vehicles | Ford | High-quality durable EVs; sell interior/seat/body panel/light/wheel/motor/battery upgrades |
+| Can-Am Tools | Husqvarna / DeWalt | High-quality durable repairable + upgradeable tools; reduce need to repurchase |
+| Can-Am Industrial | — | High-quality durable workers' equipment |
+| D-Wave | — | Quantum computing |
+| Viburg | — | (Boots/gear brand) |

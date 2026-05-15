@@ -231,3 +231,41 @@ Physical/hybrid mystery game concept:
 - **System**: telex simulation site, international phone number system
 - **Partners**: planetariums, local escape rooms
 - Real physical letters sent as game mechanic
+
+---
+
+## New Video Series Ideas
+
+### Short Manuals
+Comedy/info format — reviewing products/tools with the line:
+> "If you need a book on how to read it, you got no business owning this."
+
+### NZ Inventions Series
+- Recreating NZ inventions
+- Mention other YouTubers in the space
+
+### Political Satire Bits
+
+**Australia housing policy comedy bit** (script notes):
+> "Obviously they have done their homework and researched this to make sure it is an effective plan. So if we were to try and find an example of this not working we would have to go pretty far away, wouldn't we. Well actually Australia has had these policies in place for nearly a decade so presumably they have a well-controlled housing market. Sadly here is a list of the most expensive cities to live in... unless I'm mistaken and they are referring to Sydney, Nova Scotia — then it would appear these regulations have done little to solve the problem."
+
+**NZ Party Critique:**
+> "National seem like they have consulted an old racist builder. Labour just repackaged the same ideas. Greens consulted the leader of a hippie cult."
+
+**Nuance bit:**
+> "Your inability to see nuance makes me think the issue is that they seem to see the world in monochrome — is perhaps a charcoal painting class better suited to you than economics? Or better yet, kindergarten, so you can learn that the world has colours."
+
+**Dam analogy** — for immigration debate
+
+**Fake America movie trailer** concept
+
+### NZ/CAN Political Satire
+- Compare NZ and Canadian policy approaches side by side
+
+### Motorbike Content
+- Order camera mounts for motorbike
+- Motovlog + political discussion while riding
+
+### Camping / Outdoors
+- Plane trip QLD / PNG / Islands content
+- Camping trip: boat trek / river raft

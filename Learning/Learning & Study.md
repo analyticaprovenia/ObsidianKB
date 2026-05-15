@@ -291,3 +291,16 @@ Motivated · Confident · Decisive · Bold
 - *Traffic Secrets* — Russell Brunson
 - *7 Habits of Highly Effective People*
 - *Tuck Everlasting* (fiction)
+
+---
+
+## Films — Additional
+- *17 Again*
+- *13 Going on 30*
+
+## Security / CS Topics
+- Feistel ciphers
+- Rainbow tables
+- LC3 (real implementation)
+- Sin equation for traffic delay on a highway
+- Lasso trace stats
