@@ -1,0 +1,78 @@
+Welie.com
+Ui-templates.com or whatever
+
+
+Media site
+- by country
+- by people
+- what
+- when time line
+- regional issues
+Global flows:
+- econ: trade/money
+- political alliances
+- people
+- corporations
+Prod-prov:
+- support local busi
+- tell where the money goes
+- show ethical banks
+- Publish rankings of most ethical 
+  companies
+Educatuon:
+- History
+- Philosophy
+- Sociology
+- politics
+- language
+
+
+Site:
+  Global flows:
+      Country -»country
+      FDI, Trade, Each commodity, ppl,
+      Oil, alliances, debt, military sales
+      Conflict
+  Productprovinance
+     Search products how you like
+       - geog region, company, price, 
+         quality, made, profits, 
+     Where ingredients come from
+     Where money goes
+     Where the dividends go to
+     Who owns co./ sub-contractors
+     
+     Social shopping network
+     Sell products from diff countries
+     Neighbourhoods
+     Rank companies by social 
+     enterprise rating
+     Profile of good and bad they 
+     have done
+     Have google algo to let their 
+     favoured companies show up 
+     first
+     Alternatives
+
+    SITE coop retail site, local sellers listed for products can search by region only if you sell less than a certain amount or have a certain amount of locations
+
+  Global flows
+     for people money etc
+  News:
+     Show localized accounts of all 
+     news - local journalists etc.
+     Govt decisions
+     Company decisions
+     Geog, temp, relational, graph
+     Definition of words acronyms etc
+   People tracker:
+      Tells what each polit, business
+       leader, lobbyist did that week
+
+  Educational site
+     Historical map: show
+     Assignments and progress for 
+     each county what year you are 
+     up to
+     Social-anona-network
+     Video tutorials on skills etc.

@@ -1,0 +1,371 @@
+Comp Ideas
+
+Customer info collection card program provide cards and DB services and analytics for their clients and for a fee other companies clients
+
+Peoples profiles show who they are paid by what bills or causes or companies they lobby for
+- use relational searches to show how many people work for a certain group of companies and support a certain cause
+
+Interactive visual essay .pdf
+3d modeling from photos
+Virualization of vaccine
+
+Java/math - school
+Build comp/research/write/film
+- local issues videos
+- teaching comp sci videos
+- small projects videos
+
+Js/html/css etc
+- news
+- history
+- global flows state/ of the world 
+
+Physics/electrical/mech
+- cnc wall machine
+- solar
+- low volt appliances
+- nickel iron batteries
+-hydraulic phisics
+
+Research telecom/gloriavale/banks
+- olpr
+- co-op curch land etc
+- co-op bank
+
+Enrerprise software
+
+Business transactions:
+   Combining accounts and eftpos etc
+Database reading and writing
+
+Simplicity of procedure
+   Self serve for simple procedures.
+
+Build machines for self serve - 1000$ android tablet with eftpos machine
+   Premade buttons that are programable
+
+
+Simplicity of correction - log a correction immediately with it/cs
+
+Make you own buttons on android
+Make you own buttons or databases on a website
+
+Read news - Write for videos
+Practice speaking - Film videos
+Do java online - work on websites Build concept model housing - finish home electronics
+Learn networking - Build home network
+
+-program to explain networking concepts
+-videos of key concepts
+     Binary, latches, lc3, c,
+-physics -electronics
+-video game to teach math physics computing 
+
+Large writeable screen like in language lab
+
+Graphic to show cycle of money  btw different levels of wealth
+Eg rich ppls kids getting good jobs etc
+Layers that have it vs dont
+Program to model development
+- income
+-Payments cost
+-savings
+-Purchases
+
+
+Networking
+Web dev
+App dev
+
+Product origins scan bar code or type in
+   Who benefits from a product
+   Amount to retail store, whole sale
+   Ppl who built it Manufacturing co
+   Companies employees,  
+   companies Exec, investors,
+   money multiplyer
+Buy products from specific countries or where the money goes
+Show local stores parter so they do servicing
+Global flows
+Global coflict
+Law making
+Business
+  Mergers
+  Aquisitions
+  Bankruptcies
+  Ipos
+
+Product provenance - where all the money from a product goes
+
+Countries/states: govt/budgets/expenditures/bill
+  Pop
+  Gdp
+  Like wiki
+Break down of people earning
+Taxation rates
+Budgets
+
+Celebrity news
+
+Show the events
+Show places
+Show public figures
+Show connections
+Show resulting events
+
+Show govt decisions show results
+
+City
+Province
+Federal
+     software to run all
+     planning
+construction
+Zoning
+Prioritising
+Citizen needs
+Rates info
+================ Collect data
+
+Lan protocols
+ Create more lans to avoid isps
+
+Show sanctions etc.
+
+Agregating news and reliability 
+Politifact
+
+Conveying scientific papers
+
+Comparing anchors or politicians to dumb infomercial ppl
+
+Housing affordability
+
+Net neutrality
+
+Tpp
+
+Education - money moving vs science
+
+technology to learn vs. tech to sell
+
+Differening algorithm for sites store most of site on local drive
+
+Store where ppl can make their own electronics 
+ - eg toasters/
+ - cnc/3d printer machines to make
+   casings
+
+Neighbourhood networks with distributed data centre local library act as hyperviser and access point
+Local Pool to cool super computer
+
+Division sort /2 if int if float
+
+App for scheduling hold image sent time and order it must be done.
+Set time/place for alarm to go off
+
+Set alarm on news site for when a specific event happens or events on a particular place. Or a particular person is active or a public figure goes some where
+
+Who makes money off of a product
+-- worker pays at the stores
+-- worker pay at factory
+-- input costs what i put compnies
+-- executive pays in each country
+-- owners and investors
+Simple version -» Show money made in each country/How it wuld be spent / including taxes paid to each govt
+
+show environmental costs
+--transport cost
+--water use
+--Co2 produced
+--
+
+** Show like products and the money break down
+
+Companies submit products to data base with data sheets and volunteers to review evidence
+
+Sound maximums
+
+Mouse with 7 buttons
+
+Barcode scanners at home come with software check products or upc codes mounted camera on stick or on phone
+Be able tp scan you transaction history from bank and see where your money went
+Or type in a product you bought from some where
+
+
+Politics - decisions
+Economics -
+Business - mergers, buyouts, new products, 
+Military - budgets, conflics, etc
+Construction - urban projects, architecture, 
+Technology
+
+Prezi form for bills passed and highlighted provisions zoom to them how they will be enacted amd effect ppl
+
+Show banks portfolios
+
+Usability testimg suite to quickly show UIs
+
+Piazza style page for classes/events/appreciation societies
+
+seperate window with selected countries - graphs compare all chosen countries- have country data next to it - have time slider as well to correlate news stories
+Colour  coded industries - make up line that is proportional to over all trade surplus/deficit
+
+Native word processor with calculator
+
+Chat app with word processor
+PowerPoint maker 
+Excel exporter from stats
+In chat internet searchig
+Make your own webpage
+
+New secureOS port mechanism for http
+
+Page 
+
+Social media - anonabook
+Photo sharing - camera_technica
+Video sharing - 
+News - foundit
+Searching - swisscows
+Phone os
+Private Banking
+
+Places to send and repair old tech
+Cables etc
+
+
+
+For business
+   Create scheduling app - email
+
+Research networking
+
+Learn JS
+Finish  building comp
+****Make server and network
+
+Air bnb ap bid and new levels of service at price level
+
+Comp linux os
+Smart phone os
+Browser
+Enrypted Search engine
+Anona Video site
+Anona Photo site
+Music
+Education
+News
+Product prov / Small biz database cloud site for product search
+
+101/105/210/215/220/225/230
+345/350
+335/314/320
+
+Latex: rewrite assignments in latex
+
+Comms (email, ph/vid/pic, msg) = 
+   Desgined to link to closest other
+   node possible (serialized product
+   send signal btw all products)
+Internet (can choose country) =
+   tor, private search (diff encoding)
+Secure peer to peer system
+Query flood with check to make sure uncorupted
+Save file to reopen web pages in browser
+Represent matching with gadgets and colours etc
+
+Search engine other words searched with it
+Maps
+Self hosted anonabook page
+
+Improve military accuracy and targeting etc
+
+Lg.pch.co
+Mlab
+Ripe ncc
+Endace - network interface cards
+Distribution of smaller servers
+   Local
+   Regional
+   National
+   Global
+
+Game - for algos and math
+Make linguistic compression software - chat ap
+
+320:
+Piazza - Lim rule for ass
+DL textbook
+Look up class problems:
+Practice in dif languages
+Make time testing program
+ - merge problem
+ - tree idea
+ - max value in set
+ - finish last last
+ - dijkstra
+ - 220/225 algos
+ - huffman code
+ - spanning tree
+ - determiyune run times for algos
+ - prims 2 lifo queqes
+ - linked list/queue/heap
+ - red black tree
+ - MST single1 link clustering
+ - closest pair of points (taxi)
+      - size of prob. (effect method)
+ - nuts and bolts question
+ - local minimun applied to other concepts
+ - mom
+ - matrix sub matrix
+ - error correction and udp/tcp codes
+ - k colouring minimum
+     - imagery of node vs edge space and compare templates or (%expectations)  of set numbers of colouring
+Q
+Input limiting
+Range of weigts
+Review lec
+Look at ass 2
+
+314:
+Coastal transmission off shore relays
+Dl spectrum simulator
+Review 215
+Setup network + HAM/wireless net
+Try compessing random bits
+Set up formatted routing
+
+210:
+Build computer
+Work on cmd line ftp etc
+
+Fren:
+Watch lecs
+Watch movies
+sign up
+
+351:
+SQL/SPARKLE
+Alg/calc
+Stuff
+Pages etc
+Make large data base for countries
+
+345:
+Html/css/js
+Make site with map on it
+
+335:
+C# F#
+CMD - batch
+Review 210
+Build comp + network + apache 
+
+230:
+Java
+
+LaTeX
+REGex
+Mutex
+
