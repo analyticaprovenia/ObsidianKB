@@ -261,3 +261,18 @@ Different cultural guilds: Sahara, African, Rome (Roman), Greece (Greco), Arabia
 - Trading game with blocks, rivers, and locks
 - Mystery/thriller game
 - FPV controller + drone + filming component
+
+---
+
+## Drone Delivery
+- Main drones for bulk delivery
+- Local delivery boxes with pass keys (last-mile)
+
+## Ad Concepts
+- Entertaining / funny / viral ads
+- Ads that inform people about the owners and investors of the products they use
+
+## Keyboard & Input Tools
+- Game for training keyboard layouts
+- Phone as mouse interface
+- Better keyboard shortcuts + visual OS improvements

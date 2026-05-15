@@ -33,6 +33,8 @@ tags: [business, ideas, startups, apps, platforms]
 - Art concept for NFT launch
 - Connections to Global Flows, PP, BizSoft, NFT ecosystem
 
+---
+
 ## Apps
 
 ### Health & Skin Tracker
@@ -56,7 +58,40 @@ tags: [business, ideas, startups, apps, platforms]
 - Block dangerous locations
 - Interactive internet: Pokémon GO replacement
 
+### AI Décor
+- Say "add this style or item" → catalogue of items
+- Sell advertising to stores, take a percentage from purchases
+
+### AI Law Tools
+- AI LLM for law research
+- Task management system for law firms (open source, running on email)
+
+### Fitness Tracking App
+- Like Whoop — deep health data tracking, daily metrics
+
+---
+
 ## Physical Businesses
+
+### Immediate / Near-Term
+- **Dairy**: pay taxes, give cut — simple existing model
+- **Laundromat**: self-service
+- **Food truck**: sandwich ingredients, soap, snacks, gum, drinks
+- **Phone case machines**: new locations (Auckland CBD, Queenstown, Manukau, West) — promo: one get one half off, 3 for $75
+- **RV parks**: not common in NZ yet — source RVs + tiny houses from China, Facebook ads for occupancy, bare land with pads only
+- **Self storage**
+- **Machine business (Adil)**: vending/amusement machines
+- **Tote rentals** to moving companies — needs: totes + advertising; talk to movers + storage companies
+
+### Machine Concepts
+- Ball/Plinko machine: token → watch ball roll/bounce, race, screen brain puzzles (×4 screens) — Labubu / Minecraft / other IP
+- Chinese ice cream shop (Mixue model)
+- Fancy drink machines with own brand sodas
+
+### Consumer Products
+- Tube camera
+- Baby/toddler turn signals shirt
+- Light-up backpack with turn signals
 
 ### Makeup Bar / Hospitality Combo
 - Makeup bar + bar + café + restaurant + bakery + dairy + takeaways (on ferry)
@@ -70,37 +105,13 @@ tags: [business, ideas, startups, apps, platforms]
 - Promote minority-owned businesses
 - Research: what do migrants do differently?
 
-## Personal Finance / Economy Model
-- Conscious spending framework:
-  - Things you buy
-  - Where you keep your money
-  - Where you work
-  - Where you pay taxes
-  - Where your house is
+### Dad's Workshop
+See [[Dad's Workshop]]
 
-## Financial Goals
-- $150,000 — garage + upgrades
-- $50,000 — car + student loan
-- $50,000 — French property
-- $150,000 — French house build
-- $50,000 — cars, tools, furniture, etc.
-- $50,000 — 2 tiny houses (Bowen)
-
-## ERP / Expense Tools
-- Expensify / similar ERP software as starting point
-- Ovie (smart food tracking hardware)
-
-## Telecom Business
-- 2degrees-style co-op:
-  - Website, network, coding, towers, IXP
-  - OLPR (our lady of perpetual reception) — co-op open local peering
-  - Each site acts as a telecom repeater with fibre network
-
-## Cooperative Structures
-- State bank / co-ops
-- Credit union / mortgage lending cooperative
-- Co-op telecom (OLPR)
-- Co-op church land / community assets
+### Distribution Business
+- Local product distribution (talk to Adil)
+- NZ market analytics + computing services SaaS (target $10,000/month from Dubai)
+- Get data from directories → sell data
 
 ---
 
@@ -109,9 +120,9 @@ tags: [business, ideas, startups, apps, platforms]
 ### Core Concept
 Near-me directories covering every local service category — help small businesses rank and compete on proximity + speciality.
 
-**SEO/research tools**: keyword.io, Amazon best-seller rank, social media trends, Etsy, Ahrefs (inurl:directory), Keywords Everywhere, People Also Ask, related searches
+**Research tools**: keyword.io, Amazon best-seller rank, social media trends, Etsy, Ahrefs (inurl:directory), Keywords Everywhere, People Also Ask, related searches
 
-**Filters**: rank, reviews, distance, photos, matching what people want
+**Filters**: rank, reviews, distance, photos
 **Channels**: Facebook, Reddit, TikTok, Instagram, Pinterest
 
 ### Service Categories to List
@@ -120,24 +131,33 @@ Near-me directories covering every local service category — help small busines
 - Jewellery, makeup, skincare, shampoo
 - Heat pump installers, solar installers
 - Kebab shops, dessert shops, coffee shops (1-paragraph vibe description)
-- Mortgage brokers, mobile phone, lawyers
+- Mortgage brokers, mobile phone shops, lawyers, accountants
 - Winery guide, grocery price comparison + order generation
 - Plant nurseries (Mitre 10 vs Plant Barn)
 - Gift ideas, date ideas (with buy list + photos)
 - Kids products + review of TV show values, play centres
 - Kitchens for rent, bring-your-own-food venues
+- Tech services (printer services, IT support), telecom/internet/power comparisons
+- Banking + mortgage comparisons, "which AI to use" guide
 
 ### Monetisation
 - Links to ombudsmen + dispute resolution templates
-- Get email sign-ups from directory users → convert to advertisers → convert to BizSoft users
+- Mortgage calculator, document signing, document merge tools
+- Get email sign-ups → convert to advertisers → convert to BizSoft users
 - Job board listings
 - Boutique ecommerce: high-end items, speciality food, social advertising
 
 ### BizHub / Online BNI
 - Digital BNI — business network s2b2b2s2b2c
-- TradieHub: sell components + tools in bulk to electricians and plumbers (breakers, brass fittings, paint — "get 5 mates and order together")
-- Services + small distributors market to other small businesses
-- Online business network: business instruction + market analysis community
+- TradieHub: sell components + tools in bulk (breakers, brass fittings, paint — "get 5 mates and order together")
+- Services + small distributors marketing to other small businesses
+- Online business instruction + market analysis community
+
+### Data
+- Data brokering: email lists, de-identification layer on top, MCP to make data platform SaaS
+
+### Analytics Tools to Test
+- Google Analytics, Hotjar, Optimizely, VWO, Google Optimize, Crazy Egg, CRO/Ahrefs
 
 ---
 
@@ -161,7 +181,6 @@ Fancy, flavourful mocktails and health shots — non-alcoholic drinks with vitam
 - Alcohol recovery drink
 - Wellness shots + gummies (winter pack — sell to businesses)
 - Kids nutrition drinks with character branding
-- Chinese ice cream (Mixue-style) + own brand sodas + supplement drinks
 
 ### Revenue Targets
 - Health shots: 4 flex days/week at 120k
@@ -172,13 +191,14 @@ Fancy, flavourful mocktails and health shots — non-alcoholic drinks with vitam
 ---
 
 ## Tiger Story — Kids Content Brand
+See also: [[Media & Content Creation]]
 
 ### Core Property
 Tiger safari book set in India — origins, langurs, deer, jackals (cheeky), gaurs (stoic).
 
 **Titles/themes**: Colours of India, Spirit of India
 
-**Story elements**: young woman (mother) who always loved wildlife, opening the leaf — missing the tiger, owl twins ("who" and "too"), Scuppers as bad writing device, song for the tiger
+**Story elements**: young woman (mother) who always loved wildlife, opening the leaf — missing the tiger, owl twins ("who" and "too"), song for the tiger
 
 ### Media Rollout
 1. YouTube + Instagram + TikTok (short content)
@@ -186,22 +206,15 @@ Tiger safari book set in India — origins, langurs, deer, jackals (cheeky), gau
 3. Movie / TV series
 4. Toys, Lego, streaming licence
 
-### Companion Content
-- Teaching Hindi/English for expat kids to learn Hindi
-- Travelling India (all states + climate, meeting animals, seeing manufacturing)
-- Seeing local manufacturing on journey
-
 ---
 
 ## Elder Care Platform
 
 ### Full Service Concept
-Uber Eats / Swiggy-style platform: avatars called to locations for all services hourly.
-- Food, groceries, items, time, pills, drips
+Uber Eats / Swiggy-style platform: avatars called to locations for all services hourly — food, groceries, items, time, pills, drips.
 
 ### AI Companion Console
-- Robot/tablet device
-- Trained on medical questions but limited responses
+- Robot/tablet device trained on medical questions (limited responses)
 - Companion games: trivia, chess, puzzles
 - Memory, eyesight, hearing, grip strength testing
 - Pill dispensing + filming confirmation
@@ -211,47 +224,9 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 - Asks if they had lunch, what they ate
 - Wheelchair integration + self-driving AI
 
-### Linked Apps
-- Organise app
-- Business app: manage small biz + connect manufacturers, distributors, suppliers; bulk purchasing syndicate to trial products
-
----
-
-## Physical Businesses
-
-### Immediate / Near-Term
-- **Dairy**: pay taxes, give cut — existing model
-- **Laundromat**: self-service
-- **Food truck**: sandwich ingredients, soap, snack, gum, drinks
-- **Phone case machines**: new locations (Auckland CBD, Queenstown, Manukau, West) — promo: one get one half off, 3 for $75
-- **RV parks**: not common in NZ yet — source RVs + tiny houses from China, Facebook ads for occupancy, bare land with pads only
-- **Self storage**
-- **Machine business (Adil)**: vending/amusement machines
-
-### Interesting Machine Concepts
-- Ball/Plinko machine: token → watch ball roll/bounce, race, screen brain puzzles (×4 screens) — Labubu / Minecraft / other IP
-- Chinese ice cream shop (Mixue model)
-- Fancy drink machines with own brand sodas
-
-### Dad's Workshop Business
-- Wedding arches with Māori/fern embellishments
-- Wedding stage rentals: two chairs, table, gifts for bride + groom, cups
-- Photo walls
-- Food tapas carts
-- CNC routing names, laser etching — boards, stickers, kids books
-- Chopping boards, charcuterie boards
-- Sticker printer, t-shirt heat press, 3D printer, laser engraver, CNC cutter
-
-### Distribution Business
-- Local product distribution (talk to Adil — what does it replace?)
-- NZ market analytics + computing services SaaS (target $10,000/month from Dubai)
-- Get data from directories → sell data
-
 ---
 
 ## Entrepreneur Principles
-
-*A working philosophy for execution:*
 
 - **Bias to action** — numbers/markets/logistics first
 - **Speed of execution** — no planning perfection; involvement lets you learn
@@ -268,11 +243,9 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 - **Any problem is solvable** — build problem-solving resilience
 - **It's not who you know, it's who knows you** — build personal brand
 - **Vision must be ambitious** — make space for key employees to buy in
-- **Broke people get good at tasks; rich people get good at getting others to do things**
 - **Hard work is doing what scares you**
 - **Doubt kills more dreams** — don't let analysis paralysis stop you
 - **Know what your time is worth** — train people, don't just tell them
-- **Process problem vs people problem** — diagnose correctly
 - **Results over effort**
 - **Half measures fail — commit**
 - **10-80-10 rule** — delegate within guardrails
@@ -280,7 +253,6 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 - **Don't make good videos — make 1,000 videos**
 - **Validate ideas ASAP**
 - **Put ego aside — do what the market wants**
-- **Execute fast to market**
 
 ### Marketing Principles
 - Great photos, great copy, great creative
@@ -289,16 +261,15 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 - 80% margin, bundle products, +$40
 - Facebook ads → join groups → find manufacturer → make samples → test at farmer's markets
 - Get social media figures to promote
-- Create avatars for customer models
-- Internet Archive to see what companies did to make their site better
-- Website comparator for traffic changes
+- Create customer avatars
+- Internet Archive to see what companies changed to improve sites
 - Advertise narrowly, know specific area needs
 
 ### Recommended Reading
 - *Traffic Secrets* — Russell Brunson
 - *7 Habits of Highly Effective People*
 - *Tipping Points*
-- *Power Law* — avenues for major growth: big DBs have power, celebrity has reach, investors have capital
+- *Power Law* — big DBs have power, celebrity has reach, investors have capital
 
 ---
 
@@ -311,8 +282,36 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 
 ## Macro Business Vision
 - Media company → social media platform → lobby group → private equity → bank
-- Stock scenery aerials: NZ, Australia, Fiji, Samoa (tools, yards, ocean time-lapses, Sunday time-lapses)
 - Buy Victoria Street car park
 - Buy High Street at Freybourg Place
 - Build hotel at Bowen
 - AI business ideas tool: feed notes into business plan worksheet → market segment analysis, positioning, ad targeting, location planning, scaling, investors
+
+---
+
+## Financial Goals
+- $150,000 — garage + upgrades
+- $50,000 — car + student loan
+- $50,000 — French property
+- $150,000 — French house build
+- $50,000 — cars, tools, furniture, etc.
+- $50,000 — 2 tiny houses (Bowen)
+
+## Cooperative Structures
+- State bank / co-ops
+- Credit union / mortgage lending cooperative
+- Co-op telecom (OLPR)
+- Co-op church land / community assets
+
+## Telecom Business
+- 2degrees-style co-op: website, network, coding, towers, IXP
+- OLPR — co-op open local peering
+- Each site acts as a telecom repeater with fibre network
+
+## Personal Finance / Economy Model
+- Conscious spending framework:
+  - Things you buy
+  - Where you keep your money
+  - Where you work
+  - Where you pay taxes
+  - Where your house is

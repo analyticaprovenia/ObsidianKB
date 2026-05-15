@@ -2,63 +2,70 @@
 tags: [index, moc, data-transfer]
 ---
 
-# Data Transfer — Map of Content
+# Knowledge Base — Map of Content
 
-Organised notes compiled from raw Data-Transfer files (`.txt` sources kept as-is in `Data-Transfer/`).
+## Vault Structure
+
+### Business Ideas
+- [[Business Concepts]] — digital platforms, apps, physical businesses, elder care, health drinks, Tiger brand, entrepreneur principles
+- [[Dad's Workshop]] — woodworking, CNC, wedding rentals, equipment list
+
+### Tech & Software
+- [[Tech & Software Ideas]] — platforms (Global Flows, PP, Privacy tech), sports wearables, AI agents, AWS tools, games
+
+### Engineering
+- [[Engineering & Hardware Projects]] — electronics, electric vehicles, wall factory, sustainable manufacturing
+
+### Media & Content
+- [[Media & Content Creation]] — TWLN news format, video ideas, house project series, poems, mystery game
+
+### Politics & Society
+- [[Political & Social Vision]] — self-sufficient communities, co-op economy, NZ policy, defense infrastructure
+
+### Learning
+- [[Learning & Study]] — subjects, languages, books, films, data science, coding practice
+
+### Activities & Lifestyle
+- [[Activities & Experiences]] — dining, cultural events, outdoor activities, Auckland/NZ
+- [[Travel & Adventures]] — destinations, adventure sports, France plans, rally/motorsport
+- [[Passions & Hobbies]] — sports, workout routine, creative interests
+
+### Home
+- [[Home & Garden]] — garden planting, home improvement projects, self-sufficiency
+
+### Personal
+- [[Wedding Planning]] — vows, dance plan, to-dos, outfit notes, India trip
+
+### Claude
+- `Claude/Todo.md` — home server, Council of Claudes, AI tools to explore
 
 ---
 
-## Notes
+## Recurring Themes (Cross-Note)
 
-| Note | Source Files | Topics |
-|------|-------------|--------|
-| [[Activities & Experiences]] | Activities.txt | Dining, cultural events, outdoor activities, Auckland/NZ |
-| [[Travel & Adventures]] | Trips.txt, Activities.txt | Destinations, adventure sports, France plans, motorcycle trips |
-| [[Tech & Software Ideas]] | Computer Stuff.txt, Data Visualization.txt | Platforms, apps, privacy tech, CS algorithms, tech stack |
-| [[Engineering & Hardware Projects]] | Engineering stuff.txt, Projects.txt | Electronics, vehicles, manufacturing, sustainable builds |
-| [[Business Concepts]] | Business.txt | Apps, platforms, co-ops, ventures, financial goals |
-| [[Political & Social Vision]] | Politics.txt | Policy framework, NZ, cooperative economy, self-sufficient communities |
-| [[Media & Content Creation]] | Video.txt | YouTube, TWLN news format, video ideas, house project series |
-| [[Learning & Study]] | Art-Lit-Music-Language.txt, Art projects.txt | Subjects, languages, books, films, coursework |
-| [[Home & Garden]] | House.txt, Video.txt | Garden planting, home improvement projects, self-sufficiency |
-| [[Passions & Hobbies]] | passions.txt | Sports, social life, core values, workout |
-| [[Wedding Planning]] | Notes.odt | Vows, dance plan, to-dos, outfit notes |
-
----
-
-## Recurring Themes
-
-These ideas appear across multiple files — they're clearly central:
-
-- **Global Flows + Product Provenance** — a platform visualising money/trade/power flows and where product profits go → [[Tech & Software Ideas]], [[Business Concepts]]
-- **Self-sufficient communities** — solar, co-op telecom (OLPR), government housing, community gardens → [[Political & Social Vision]], [[Engineering & Hardware Projects]], [[Home & Garden]]
-- **Wall/housing factory** — prefab affordable housing via CNC manufacturing → [[Engineering & Hardware Projects]], [[Business Concepts]]
-- **Privacy-first tech** — decentralised internet, anonymous social, encrypted OS → [[Tech & Software Ideas]]
-- **News + media platform** — action-oriented news, TWLN local network, sentiment analysis → [[Media & Content Creation]], [[Business Concepts]]
-- **France** — property, citizenship, life plan → [[Travel & Adventures]], [[Business Concepts]]
-- **Electric vehicles** — full range from motorcycles to trucks → [[Engineering & Hardware Projects]]
-- **Co-op economy** — credit unions, state bank, OLPR telecom, cooperative retail → [[Political & Social Vision]], [[Business Concepts]]
+| Theme | Notes |
+|-------|-------|
+| Global Flows + Product Provenance | [[Business Concepts]], [[Tech & Software Ideas]] |
+| Self-sufficient communities | [[Political & Social Vision]], [[Engineering & Hardware Projects]], [[Home & Garden]] |
+| Wall/housing factory | [[Engineering & Hardware Projects]], [[Business Concepts]] |
+| Privacy-first tech | [[Tech & Software Ideas]] |
+| News + media platform (TWLN) | [[Media & Content Creation]], [[Business Concepts]] |
+| France (property + life plan) | [[Travel & Adventures]], [[Business Concepts]] |
+| Electric vehicles | [[Engineering & Hardware Projects]] |
+| Co-op economy | [[Political & Social Vision]], [[Business Concepts]] |
+| Tiger kids brand | [[Business Concepts]], [[Media & Content Creation]] |
+| Directory / BizHub | [[Business Concepts]], [[Tech & Software Ideas]] |
 
 ---
 
 ## Raw Source Files
-Located in `Data-Transfer/` — left untouched:
-- `Activities.txt`
-- `Art-Lit-Music-Language.txt`
-- `Art projects.txt`
-- `Business.txt`
-- `Computer Stuff.txt`
-- `Data Visualization.txt`
-- `Engineering stuff.txt`
-- `House.txt`
-- `passions.txt`
-- `Politics.txt`
-- `Projects.txt`
-- `Trips.txt`
-- `Video.txt`
-- `Notes.odt` *(processed — merged into existing notes + new Wedding Planning note)*
+Located in `Data-Transfer/` — kept as-is:
+- `Activities.txt`, `Art-Lit-Music-Language.txt`, `Art projects.txt`, `Business.txt`
+- `Computer Stuff.txt`, `Data Visualization.txt`, `Engineering stuff.txt`, `House.txt`
+- `passions.txt`, `Politics.txt`, `Projects.txt`, `Trips.txt`, `Video.txt`
+- `Notes.odt` *(processed and merged)*
 - `Phone Notes.docx` *(not yet processed — requires Word conversion)*
 - `DB Setup.xlsx` / variants *(not yet processed — spreadsheet data)*
+- Various `.ods` spreadsheet files
 
-## Security Note
-A credit card number was found in `Notes.odt` (line ~1206) and intentionally excluded from all notes. Recommend deleting or securing the source file.
+> **Security note**: `Notes.odt` contained a credit card number — intentionally excluded from all notes. Recommend securing or deleting the source file.

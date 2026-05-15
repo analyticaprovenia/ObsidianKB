@@ -152,3 +152,28 @@ A hierarchy of needs to be met locally, not corporately:
 ### Media Referenced
 - Duran, Novara, Zaiteo, Kyle Kulinski, TeleSUR, RT, Tucker Carlson
 - London, NYC, Chicago, Texas, Dubai, Singapore, Tokyo, Seoul, Paris, China, Brazil — global coverage
+
+---
+
+## Defense & Infrastructure Policy
+
+### Smart Transport Infrastructure
+- License plate QR codes (readable by traffic cameras, not by people)
+- Contactless / RFID driver's licence
+- Agents / doormen in every building
+- Mini airports on motorway off-ramps (every 20km)
+- Tunnels-from-tunnels distributed network
+- Enforce generic design for all large/medium transport trucks
+- Boats with drone launching capability
+
+### Distributed Defense (Notes)
+- **AWACS**: loitering AWACS array (3.5m × 600mm), Luneburg lens, chaff
+- **Air superiority**: loitering jet with 1–2 air-to-air missiles
+- **SAM**: distributed, disguised, passive + active
+- **Anti-ship**: GPS-guided
+- **AtA drones**: 500kph + air-to-air missile
+- Small stealth drones — asymmetric warfare
+- Shahid-X equivalents on standard trucks
+
+### Geopolitical Goal
+Make NZ the Switzerland of the Pacific — neutral, prosperous, self-sufficient.

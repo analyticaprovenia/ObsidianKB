@@ -221,3 +221,13 @@ Planned episodes tied to real projects:
 - How the economy actually works — continual debt?
 - Discussion about dissolving, depressing culture
 - Design: sports complex, amphitheatre, art gallery, urban planning from the perspective of a skateboarder
+
+---
+
+## Mystery Letter Game
+Physical/hybrid mystery game concept:
+
+- **Motifs**: pre-choose level of travel needed; Murder on the Orient Express style; pirate boat journey (Obra Dinn)
+- **System**: telex simulation site, international phone number system
+- **Partners**: planetariums, local escape rooms
+- Real physical letters sent as game mechanic

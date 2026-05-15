@@ -11,24 +11,14 @@
             "id": "654b7334ecad4322",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "92f28e694029829d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "House Plans/ToDO.md",
+                "file": "Business Ideas/Business Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDO"
+              "title": "Business Concepts"
             }
           },
           {
@@ -37,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Ideas/Dad.md",
+                "file": "Business Ideas/Business Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dad"
+              "title": "Business Concepts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +194,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f3a70f17df69502",
+  "active": "654b7334ecad4322",
   "lastOpenFiles": [
+    "Data Transfer - Index.md.tmp.10693.807e441f74d6",
+    "Claude/Todo.md.tmp.10693.e0273dd77ba7",
+    "Business Ideas/Dad's Workshop.md",
+    "Business Ideas/Dad's Workshop.md.tmp.10693.463e59d4230f",
+    "Business Ideas/Business Concepts.md.tmp.10693.54b58da8952d",
+    "Travel/Travel & Adventures.md",
+    "Phone notes.md",
+    "Data Transfer - Index.md",
+    "House Plans/ToDO.md",
+    "Business Ideas/Dad.md",
     "Business Ideas/Business Concepts.md",
     "Activities/Activities & Experiences.md",
-    "Travel/Travel & Adventures.md",
     "Programming Ideas/Software ideas.md",
     "Data Transfer - Index.md.tmp.10693.32887771821a",
     "Data Transfer - Index.md.tmp.10693.cc9f41a8d3d7",
@@ -219,10 +217,6 @@
     "Data-Transfer/Notes.odt",
     "Data-Transfer/Untitled spreadsheet.ods",
     "Data-Transfer/Untitled spreadsheet (1).ods",
-    "Data-Transfer/Property Investment Calculator.ods",
-    "Data-Transfer/Income - Investing March_April.ods",
-    "Data-Transfer/House_ BPL.ods",
-    "Data Transfer - Index.md",
     "Passions & Hobbies/Passions & Hobbies.md",
     "Home & Garden/Home & Garden.md",
     "Learning/Learning & Study.md",
@@ -237,10 +231,6 @@
     "Policy Ideas/Defense/Policy.md",
     "ToDo/Research.md",
     "Claude/Todo.md",
-    "Phone notes.md",
-    "House Plans/ToDO.md",
-    "Business Ideas/Dad.md",
-    "Passwords.md",
-    "Product Ideas/Consumer.md"
+    "Passwords.md"
   ]
 }
