@@ -24,6 +24,8 @@ tags: [passions, hobbies, sports, lifestyle, social]
 - Muay Thai
 - Tennis
 - Hip hop dancing
+- Bangra
+- Bachata
 
 ### Adventure Sports
 - Jet skiing
@@ -92,8 +94,24 @@ tags: [passions, hobbies, sports, lifestyle, social]
 - Uneven carry, curtsey lunge
 - Banded walk
 
+### Core / Cardio
+- Sauna
+- Cold plunge
+- Sprint
+- Cardio
+
 ### Technique Note
-Aim for extreme stretch for muscle growth.
+Aim for extreme stretch for muscle growth; max tension on stretch; movement along muscle fibre.
+
+### Nutrition
+- Stir frys + veggies
+- Protein bowl + fruit
+- Eggs + beans
+- Lamb pasta
+- Salmon
+- Green tea + honey
+- Fruit + nuts
+- Supplements
 
 ---
 

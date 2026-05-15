@@ -5,6 +5,20 @@ tags: [travel, adventure, trips, bucket-list]
 # Travel & Adventures
 
 ## New Zealand
+
+### NZ Regions to Visit
+- Northland
+- Mid North Island
+- Gisborne
+- Tongariro / Ruapehu
+- New Plymouth / Taranaki
+- Wellington + Wairarapa
+- Picton / Marlborough
+- Fiordland / Milford Sound
+- Hanmer Springs area
+- Offshore Islands
+
+### NZ Highlights (existing)
 - Bay of Islands
 - Wellington
 - Rotorua spas
@@ -12,6 +26,15 @@ tags: [travel, adventure, trips, bucket-list]
 - Tongariro crossing (stay)
 - Kawau — sailing + snorkel
 - West Coast / train to Ruapehu/national park
+
+### NZ Hikes (Multi-Day / Bucket List)
+- Egmont (Taranaki)
+- Tongariro Alpine Crossing
+- Milford Track
+- Doubtful Sound
+- Roy's Peak (Wanaka)
+- Mount Isthmus (Wanaka)
+- Snow camping
 
 ## Australia
 - Sydney (mid-semester break)
@@ -31,6 +54,9 @@ tags: [travel, adventure, trips, bucket-list]
 - Train across Canada
 - Cargo ship journey — St Lawrence river
 - Volunteer firefighting (west coast)
+- Whistler — skiing
+- Family visits
+- Hamilton / Ontario properties
 
 ## Europe
 - Southern Europe
@@ -47,6 +73,7 @@ tags: [travel, adventure, trips, bucket-list]
 
 ## Adventure Sports Bucket List
 - Big mountain skiing
+- Heli skiing
 - Enduro race
 - Kiteboarding
 - Paramotoring
@@ -58,6 +85,17 @@ tags: [travel, adventure, trips, bucket-list]
 - Pilot a ship
 - Skydiving
 - Motorbike touring (ADVRider / Horizons style)
+- Gliding
+- Hunting
+- Snow mobile tour
+- Dune buggies
+- Race rally / cars
+
+## Offgrid & Wilderness
+- Siberia expedition
+- Kamchatka
+- *Reference*: "One Year Alone In The Forest Building A Log Cabin" (YouTube)
+- *Reference*: Survivorman — Les Stroud (YouTube)
 
 ## Trip Formats
 - Motorcycle trips

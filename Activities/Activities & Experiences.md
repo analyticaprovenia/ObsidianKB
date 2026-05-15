@@ -16,6 +16,12 @@ tags: [activities, auckland, nz, social, todo]
 - Orleans
 - Italian restaurant
 - Secret Garden
+- Inca
+- Broke Boy
+- Tobi
+- Oohfa
+- Prego
+- 3 Nutmegs
 
 ## Cultural & Social Events
 - Film festival
@@ -49,6 +55,40 @@ tags: [activities, auckland, nz, social, todo]
 - Jet ski harbour — Devonport — Takapuna
 - Skydive (Taupo)
 - Strawberry picking
+- Gliding
+- Paramotoring
+- Surprise flight destination (blindfolded)
+- Solar boat trip
+- Snow mobile tour
+- Heli ski
+
+### Hikes & Walks
+- Long Bay Beach
+- Okura Scenic Reserve
+- Matakana markets + Tawharanui Beach
+- Scandrett Historical House
+- Waipu Cove
+- Kayak: island off Beachlands
+- Waitakere–Whatipu Beach
+- Karamatura Falls
+- Pararaha Track
+- Kayak: Kai Iwi Lakes
+- Horse riding: Pakiri
+- Donald McLean Lookout
+- Raglan: try surfing
+- Waiheke: Park Point
+- Coromandel: Cathedral Cove
+
+### Auckland Nearby
+- Okira
+- Whangaparoa
+- Stillwater
+- Woodhill
+- Riverhead
+- Clevedon Evening Markets
+- Onepoto Domain
+- Pakuranga Cycleway
+- Karangahake Gorge
 
 ## Day Trips & Nearby Destinations
 - Devonport (biking)
@@ -58,6 +98,22 @@ tags: [activities, auckland, nz, social, todo]
 - Rotorua spas
 - Wellington
 - Tongariro crossing (stay overnight)
+
+## Date Ideas
+- Tennis
+- Movie night
+- Driving range
+- Golf (Chan + Jayne)
+- Fever up: candlelit dinner
+- Meet salsa people
+- Meetcute role play
+- Reading in the park
+- At a bookstore
+- SkyCity
+- Make a piece of art with wood
+- Snow Planet with family
+- Park / wedding (Wilson + Zoe)
+- Meetups together: investing / law / startup / public sector / media
 
 ## Weekend/City Events
 - New Year's at Viaduct — cruise harbour

@@ -64,8 +64,16 @@ Located in `Data-Transfer/` — kept as-is:
 - `Computer Stuff.txt`, `Data Visualization.txt`, `Engineering stuff.txt`, `House.txt`
 - `passions.txt`, `Politics.txt`, `Projects.txt`, `Trips.txt`, `Video.txt`
 - `Notes.odt` *(processed and merged)*
-- `Phone Notes.docx` *(not yet processed — requires Word conversion)*
+- `Phone Notes.docx` *(processed and merged)*
 - `DB Setup.xlsx` / variants *(not yet processed — spreadsheet data)*
-- Various `.ods` spreadsheet files
+- `Activities.ods` *(processed — Auckland activities, dates)*
+- `BP.ods` *(processed — project matrix, Morse app, todos, trips, financial models, company DB)*
+- `Bidgeniss Inveztigashins.ods` *(processed — biz/house/activity todos, AWS/AI, privacy tech, content platform)*
+- `Hiking plan.ods` *(processed — NZ hike list, offgrid destinations)*
+- `House_ BPL.ods` *(processed — room-by-room renovation plan)*
+- `Income - Investing March_April.ods` *(processed — income/expense tracking, investment snapshot)*
+- `Property Investment Calculator.ods` *(processed — 59 Coronation scenarios)*
+- `Untitled spreadsheet (1).ods` *(processed — master life planning spreadsheet)*
+- `Untitled spreadsheet.ods` *(processed — duplicate of above)*
 
 > **Security note**: `Notes.odt` contained a credit card number — intentionally excluded from all notes. Recommend securing or deleting the source file.

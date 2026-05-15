@@ -138,3 +138,86 @@ See [[Media & Content Creation]] for the planned video series around these proje
 - [ ] Get hedge trees
 - [ ] Clear vines, plant yuccas
 - [ ] Let grass grow back
+
+---
+
+## Room-by-Room Renovation Plan
+
+### Office
+- [ ] Extend wall
+- [ ] Header
+- [ ] Sliding door (Joly room)
+- [ ] Make normal doors
+- [ ] Put internet cable under floor
+
+### Living Room
+- [ ] Cut concrete ledge
+- [ ] Remove brick
+- [ ] Fix roof
+- [ ] Extend wall
+- [ ] Insulate
+
+### Kitchen
+- [ ] Rotate door
+- [ ] Make header
+- [ ] Frame alcove
+- [ ] Frame fridge alcove
+- [ ] Water to fridge
+- [ ] Fit tall cabinet
+- [ ] Fit pullout cabinet ($700)
+- [ ] Fit shower 1200×870
+
+### Toilet
+- [ ] Remove middle stud
+- [ ] Frame closet
+- [ ] Drywall
+- [ ] Fit vanity
+- [ ] Plumb vanity
+- [ ] Fix toilet cabinet
+- [ ] Nail tile board / gibstop / tile / floor / edge
+
+### Bathroom
+- [ ] Remove bath / send bathtub
+- [ ] Frame alcove
+- [ ] Drywall
+- [ ] Add shower
+- [ ] Add wall
+- [ ] Move washer/dryer
+- [ ] Add toilet
+- [ ] Ceiling / lower wall / upper wall / bench
+- [ ] Sauna electronics
+
+### Master Bedroom
+- [ ] Fix closet
+- [ ] Make ensuite
+- [ ] Plumb ensuite
+- [ ] Wire ensuite
+- [ ] Ensuite door
+
+### Exterior
+- [ ] Electric garage door
+- [ ] Gate
+- [ ] Finish fence + gate door
+- [ ] Fix gutter + attach hose splitter
+- [ ] Dig trailer parking extension
+- [ ] Concrete driveway + tracks + lower parking
+- [ ] Move tap + 2nd tap in paint shed
+- [ ] Level pathway
+- [ ] Line of yuccas + edge around yuccas + fuschia
+- [ ] Weed mat + bark mulch in beds
+- [ ] POE camera
+- [ ] Light
+
+### Materials Budget Estimate
+| Item | Est. Cost |
+|------|----------|
+| Framing timber | $396 |
+| Drywall | $780 |
+| Shower | $800 |
+| Vanity | $520 |
+| Toilet | $300 |
+| Pullout cabinet | $700 |
+| Tall cabinet | $300 |
+| Garage motor | $300 |
+| Faucets / mirrors / misc | ~$400 |
+| **Subtotal** | **~$5,500** |

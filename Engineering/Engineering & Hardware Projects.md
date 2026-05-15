@@ -18,8 +18,23 @@ tags: [engineering, hardware, diy, sustainability, manufacturing, electronics]
 - [ ] Fix laptop with Linux
 - [ ] WiFi light bulb / WiFi stick-on switch
 - [ ] Develop different comms protocols
-- [ ] GoProamera setups (get more)
+- [ ] GoPro camera setups (get more)
 - [ ] Electric cat feeder
+- [ ] Laptop → server conversion (with external screen driver)
+- [ ] Portable power station + portable screens + mobile data connection
+- [ ] Home server automation
+- [ ] Tube camera
+- [ ] Glasses screen (wearable display)
+- [ ] Watch GPS
+
+### Drone Systems
+- [ ] FPV controller
+- [ ] Plane/hover drone with extended range
+- [ ] Drone mothership
+- [ ] Loitering drone (AWACS-style)
+- [ ] Game software for drone
+- [ ] Drone filming (rivers, landscapes, real estate)
+- [ ] Drone design work
 
 ## Vehicles & Transport
 ### Electric Vehicles to Design/Build
@@ -40,6 +55,13 @@ tags: [engineering, hardware, diy, sustainability, manufacturing, electronics]
 - Connect phone to car: speed, engine diagnostics, etc.
 - GPS-based non-tracking phones (VHF)
 - CAN-AM vehicles (small)
+- CNG (compressed natural gas) car conversion
+- Pony motor truck with generator
+- Biodiesel + pump system
+- Vehicle cleaner / car wash automation
+- Water wheel / micro-hydro for vehicles
+- Solar project (portable/expandable)
+- Diesel → biodiesel conversion
 
 ## Manufacturing Ventures
 
@@ -97,6 +119,16 @@ tags: [engineering, hardware, diy, sustainability, manufacturing, electronics]
 - Optimising spectrum / utilising other frequency bands
 - Automated excavation equipment
 - Micro-apartment designs
+
+## Consumer Product Concepts
+- **Tube camera** — disguised as water bottle
+- **Custom keyboard/mouse** — Apple-inspired design
+- **Small form-factor computer**
+- **Heat pump system**: creates hot + cold water tanks
+  - Cold side: fridge room, cool central PC in summer
+  - Hot side: hot water, pool heating
+  - Connect fridge, HW cylinder, pool heat
+- **Transport infrastructure model**: council pays / gives road land for shared development
 
 ## Specific Build List
 - [ ] Garage door automation

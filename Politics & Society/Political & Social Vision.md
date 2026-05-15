@@ -92,6 +92,23 @@ A hierarchy of needs to be met locally, not corporately:
 - Mandatory service: military / education / research / infrastructure / healthcare
 - National police
 - Infrastructure investment
+- ACC physio access
+- Tax included in displayed prices (like Australia)
+- No tax on used cars
+- Metric system adoption (fully)
+- 4 weeks minimum leave (extend to match Canada)
+- Support local products — policy to favour NZ-made
+- Higher food quality standards
+- School food programs (breakfast + lunch for kids)
+- 4/3 day work week policy
+- Smaller stores / local retail over big box
+
+## Canada Observations
+- More activities, especially winter sports / skiing
+- Family-oriented culture
+- Better climate (especially BC)
+- More places to explore
+- Nice forests / wilderness access
 
 ## Global Issues
 - Power/water access for Africa

@@ -52,11 +52,49 @@ tags: [learning, study, books, languages, history, philosophy, science]
 - **Noam Chomsky**
 
 ### Books to Read
-- *Manufacturing Consent* — Chomsky
+
+**Plays / Literature**
+- *All My Sons* — Arthur Miller
+- *Death of a Salesman* — Arthur Miller
+- *A View from the Bridge* — Arthur Miller
+- *Faust* — Goethe
+- *Henry Miller* (works)
+- *Bonfire of the Vanities* — Tom Wolfe
+- *Empire* — Gore Vidal
+- *Primary Colours*
+- *Killing Hope* — William Blum
+- *Hate Inc.* — Matt Taibbi
+
+**Philosophy / Political Theory**
+- Socrates, Plato, Descartes, Bertrand Russell (core texts)
+- *Manufacturing Consent* — Chomsky (already listed)
+- *Management of Savagery*
+- *Manufactured Landscapes*
+- *Tan Malaka* (works)
+
+**Economics / History**
+- *Thomas Piketty* (Capital and works)
+- *Matt Carp* (works)
+- *Mark Blythe* (works)
+- *Samuel Johnson* (works)
+- *Vijay Prashad* (works)
+- *Greg Grandin* (works)
+- *Start With Why* — Simon Sinek
+
+**Other**
 - *Inglorious Empire* — Shashi Tharoor
 - *The Ponzi Factor*
 - *Talking Economics with My Daughter*
 - *And the Mountains Echoed* — Khaled Hosseini
+- *A History of Burning*
+- *Invisible Life of Addie LaRue*
+- Scifi: Asimov, Heinlein (works)
+- Gladwell (works)
+- Founders biographies (general)
+- Biographies: Bismarck, Caesar, etc.
+
+**Reference authors for data/web analytics:**
+- Marie Haynes, Nick Eubank, Jon Cooper
 
 ---
 
@@ -66,6 +104,20 @@ tags: [learning, study, books, languages, history, philosophy, science]
 - *Sky Captain and the World of Tomorrow*
 - "Movie inside of a coma" — things changing without full comprehension (concept / similar films)
 - Nile, Amazon, Congo documentary concept
+- *Chungking Express*
+- *Portrait of a Lady on Fire*
+- *Sansho the Bailiff*
+- *Jules et Jim*
+- *Past Lives*
+- *Suspiria*
+- *Boy from Heaven*
+- *Jean Dielman, 23 Quai du Commerce*
+- *Love Exposure*
+- *Me Before You*
+- *Room* (Emma)
+- *Twisted River*
+- *A History of Burning*
+- *The Shock Doctrine* (documentary)
 
 ---
 
@@ -297,6 +349,13 @@ Motivated · Confident · Decisive · Bold
 ## Films — Additional
 - *17 Again*
 - *13 Going on 30*
+
+## TV Shows to Watch
+- *Ted Lasso*
+- *Outlander*
+- *Better Call Saul*
+- *Peaky Blinders*
+- *The Crown*
 
 ## Security / CS Topics
 - Feistel ciphers

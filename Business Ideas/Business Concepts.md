@@ -226,6 +226,58 @@ Uber Eats / Swiggy-style platform: avatars called to locations for all services 
 
 ---
 
+---
+
+## Dev Co. — Housing Development Model
+
+### Unit Economics
+- 5 units × $320,000 build cost = $1,600,000 total investment
+- Each unit: $800/week income = $1,200,000 equity per property
+- Scale: 1,000 clients → $300k revenue; 7,000 clients → $2.1M revenue
+- Customer service people: 2 per 1,000 clients
+
+### Wall Manufacturing Categories
+- Residential developments
+- Flagship commercial
+- Industrial
+- Civic / community
+- Solar
+- Electric car conversions
+
+---
+
+## Content Platform
+
+### Channels & Formats
+| Format | Platform |
+|--------|----------|
+| Short clips | Instagram / TikTok / YouTube |
+| Long form | YouTube / Podcast |
+| Book / sticker book | Amazon / Book Bolt |
+| Letters | Direct / email |
+| TV Show | YouTube / streaming |
+
+### Tiger Stories Content
+See [[Tiger Story — Kids Content Brand]]
+
+### Hindi / English Learning Content
+Educational language series
+
+### Mystery / Adventure Game
+**Story lines**: Wild West, 90s tech, 60s future, Cold War espionage
+
+**Game mechanics**:
+- Puzzles, riddles, tasks + answers
+- Geo-caching
+- Local escape rooms
+- Local start dome / community spaces
+- Board game cafés integration
+- Oregon Trail style progression
+- Weekly/fortnightly/monthly episodic format
+- Option to meet other players
+
+---
+
 ## Entrepreneur Principles
 
 - **Bias to action** — numbers/markets/logistics first

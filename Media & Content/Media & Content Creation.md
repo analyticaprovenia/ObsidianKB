@@ -234,6 +234,35 @@ Physical/hybrid mystery game concept:
 
 ---
 
+## Adventure / Mystery App Game
+
+### Story Lines
+- Wild West
+- 90s tech
+- 60s future
+- Cold War espionage
+
+### Mechanics
+- Puzzles, riddles, tasks + answers
+- Geo-caching
+- Local escape rooms
+- Local community start dome
+- Board game café integration
+- Oregon Trail-style progression
+- Weekly / fortnightly / monthly episodic
+- Option to meet other players in-game
+
+### Content Formats
+| Channel | Format |
+|---------|--------|
+| Instagram / TikTok / YouTube | Short clips |
+| YouTube / Podcast | Long form |
+| Amazon / Book Bolt | Book / sticker book |
+| Direct / email | Letters |
+| YouTube / streaming | TV Show |
+
+---
+
 ## New Video Series Ideas
 
 ### Short Manuals

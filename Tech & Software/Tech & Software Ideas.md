@@ -14,6 +14,32 @@ Visualise how money, people, trade, and power move between countries.
 - Show govt decisions and their results
 - Companion: separate window to compare selected countries with graphs
 
+#### Data Model
+| Entity | Scale | Source |
+|--------|-------|--------|
+| Companies/organisations | 10,000 | Wiki, donation records, wage reports |
+| People/parties/payscales | 10,000 | Donation reports, wage reports |
+| Places | 10,000 | IMF/World Bank/trade data |
+| Products | 100,000 | Company sites, safety reports |
+| Events | 1,000,000 | News, government reports |
+
+#### Flow Dimensions
+1. Information — money, influence/power, goods
+2. Housing — automated production, transport, assembly, education, developments
+3. Power — solar, anaerobic gas, nuclear, hydrogen
+4. Water — collection, gondolas, pumping stations, desalination
+5. Food — developments, urban design, compost, manufacturing trains
+6. Transportation — car refurbishment, development design, cycleways
+7. Processing power — chip production, phones, computers
+8. SME Promotion — business software, marketing, data
+9. Defensive Robotics
+10. Health AI
+11. Maker Machines
+
+#### Companion Platforms
+- BizSoft, Product Provenance, Wall Manufacturing
+- Development Infrastructure Co., Solar production/48v, Car refurbishment
+
 ### Product Provenance
 Where does a product's money actually go?
 - Worker pay (retail + factory), input costs, executive pay, owners/investors — broken down by country
@@ -232,6 +258,55 @@ Platform for measurable coaching feedback across sports:
 - Business tool for writing product info + return policies optimised for AI parsing
 - Compendium of common questions to hone information for tools
 - Claude running continuously on an EC2
+
+### AWS SaaS Stack
+- AI: MCP, RAG, Skills
+- Data: Bedrock, Databricks, analytics, visualisation, de-identification
+- Product sales channels: Trade Me, Amazon, Shopify, Facebook, own URL
+
+---
+
+## Industry Directories Platform
+
+A product comparison and directory tool covering major consumer/industry categories.
+
+### Industry Categories
+- Technology
+- Power / energy
+- Telecom
+- Insurance
+- Banks / credit cards
+- Internet providers
+- Cars
+- Shampoo / Soap / Makeup
+
+### Filter Dimensions
+- Price
+- Quality
+- Environmental impact
+- Ethical rating
+- Order directly (from supplier/manufacturer)
+- Add to combined order
+
+### Embedded Tools
+- Power meter
+- Phone data usage checker
+- Mortgage calculator
+- PDF signing
+- Speed test
+- Annual petrol cost calculator
+
+---
+
+## BizNet — Business Social / Trade Platform
+- Coin/token for trade between businesses
+- App to remind people when near a local shop
+- Sell leads
+- Sell B2B
+- Organiser app for local shops
+- Sales platform
+- 2-sided market for businesses
+- See also: [[Business Concepts]] → BizHub
 
 ---
 
