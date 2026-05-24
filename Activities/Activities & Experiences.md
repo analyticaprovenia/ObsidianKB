@@ -1,8 +1,36 @@
 ---
-tags: [activities, auckland, nz, social, todo]
+tags: [activities, auckland, nz, social, todo, routine]
 ---
 
 # Activities & Experiences
+
+---
+
+## Regular Routine
+
+### Weekly
+- Boxfit
+
+### Fortnightly
+- Tennis
+- Gliding
+- Drone flying
+
+### Monthly / When Possible
+- Sailing
+- Skating
+- Motorcycle ride
+
+---
+
+## Adventure & Builds (Active Projects)
+- Solar bike + camper build
+- Solar boat trip (Taumaranui → Whanganui → Lake Taupo)
+- Jet ski — convert to electric
+- Trailer sailer: weekending + fishing, solar + batteries
+- Catamaran (longer term)
+
+---
 
 ## Dining & Restaurants
 - Rumi restaurant
@@ -23,6 +51,8 @@ tags: [activities, auckland, nz, social, todo]
 - Prego
 - 3 Nutmegs
 
+---
+
 ## Cultural & Social Events
 - Film festival
 - Art fair
@@ -36,11 +66,15 @@ tags: [activities, auckland, nz, social, todo]
 - Art movies (surrealist style)
 - "Whats On" / Grab One — check regularly
 
+---
+
 ## Art & Creativity
 - Painting (Bossa Nova style)
 - Surrealist-style painting
-- Gallery visit (weed-themed?)
+- Gallery visit
 - Museum
+
+---
 
 ## Outdoor & Adventure
 - Rangitoto
@@ -51,11 +85,10 @@ tags: [activities, auckland, nz, social, todo]
 - Fly kite
 - Snorkelling (Goat Island, Kawau)
 - Piha — cold swim
-- Motorbike around Cornwall Park / around Domain
+- Motorbike around Cornwall Park / Domain
 - Jet ski harbour — Devonport — Takapuna
 - Skydive (Taupo)
 - Strawberry picking
-- Gliding
 - Paramotoring
 - Surprise flight destination (blindfolded)
 - Solar boat trip
@@ -90,6 +123,8 @@ tags: [activities, auckland, nz, social, todo]
 - Pakuranga Cycleway
 - Karangahake Gorge
 
+---
+
 ## Day Trips & Nearby Destinations
 - Devonport (biking)
 - Titarangi
@@ -98,6 +133,8 @@ tags: [activities, auckland, nz, social, todo]
 - Rotorua spas
 - Wellington
 - Tongariro crossing (stay overnight)
+
+---
 
 ## Date Ideas
 - Tennis
@@ -115,16 +152,22 @@ tags: [activities, auckland, nz, social, todo]
 - Park / wedding (Wilson + Zoe)
 - Meetups together: investing / law / startup / public sector / media
 
+---
+
 ## Weekend/City Events
 - New Year's at Viaduct — cruise harbour
 - Waiheke — villa + motorbike
 - Union Steamship
 - Skytower / Orbitz
 
+---
+
 ## To Buy
 - [ ] Kite leads
 - [ ] Telescope
 - [ ] Snorkel gear
+
+---
 
 ## Hobbies to Pursue
 - Climbing
