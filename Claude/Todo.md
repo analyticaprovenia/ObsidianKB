@@ -27,15 +27,14 @@ tags: [claude, ai, todo, tools]
 
 # Create claude tasks on server
 - each day message what is on the agenda for the day
-- have long running goals (epics)
-- tasks can fall under epic and make up parts
-
+- have long running goals (epics) tasks can fall under epic and make up parts
   - property app: finish site, research investing in NZ +Aus +Sing, talk to russel, talk to haroon + amaan, talk to nitish + agents
   - build internet business: directories, small business net, product provenace, global flows 
   - home automation - includes: server, cove lighting, solar, auna automation, media/NAS server
   - drone stuff: get 30hrs flight sim, buy tiny whop and goggles, get 30hrs on real, buy real drone, fly dji, get hewing, build bigger aeroplane
   - electronics: make extra screen, get portable power unit, make IR camera
   - adventuring: make solar bike and trailer, make solar camper, make drone videos
+  - machine work: visit locations * 3 MIT, eventfinder, aut, UOA, email people, take out other machines
 - have claude make suggested subtasks for the epic
 - have long running goals
   - message (person: freind, family etc) every (interval: day, week, fortnight, month)
