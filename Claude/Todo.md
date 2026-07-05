@@ -25,18 +25,18 @@ tags: [claude, ai, todo, tools]
 - Kiro
 - Q-CLI with MCP
 
-# Create claude tasks on server
+# Claude create daily reminders for tasks and connect to trello
 - each day message what is on the agenda for the day
-- have long running goals (epics) tasks can fall under epic and make up parts
+- have long running goals (epics) tasks can fall under epic and make up parts (claude can suggest subtasks on epics as well)
   - property app: finish site, research investing in NZ +Aus +Sing, talk to russel, talk to haroon + amaan, talk to nitish + agents
   - build internet business: directories, small business net, product provenace, global flows 
   - home automation - includes: server, cove lighting, solar, auna automation, media/NAS server
+  - remote work setup: build extra screens x2, make mount for screens, get lipo4 batteries, install in car, 
   - drone stuff: get 30hrs flight sim, buy tiny whop and goggles, get 30hrs on real, buy real drone, fly dji, get hewing, build bigger aeroplane
-  - electronics: make extra screen, get portable power unit, make IR camera
-  - adventuring: make solar bike and trailer, make solar camper, make drone videos
+  - electronics: make IR camera, make thumb pads for phone, get AR glasses.
+  - adventuring: make solar bike and trailer trip (get bike, make trailer, etc), solar camper trip (setup power and mobile computing necessities, make camper, solar boat (same tasks)
   - machine work: visit locations * 3 MIT, eventfinder, aut, UOA, email people, take out other machines
-- have claude make suggested subtasks for the epic
-- have long running goals
+- have persistent activities:
   - message (person: freind, family etc) every (interval: day, week, fortnight, month)
   - meet person (name) every (interval: ...)
   - exercise 4 times per week (ask every monday what days will be workout)
