@@ -30,7 +30,7 @@ tags: [claude, ai, todo, tools]
 - have long running goals (epics) tasks can fall under epic and make up parts (claude can suggest subtasks on epics as well)
   - property app: finish site, research investing in NZ +Aus +Sing, talk to russel, talk to haroon + amaan, talk to nitish + agents
   - build internet business: directories, small business net, product provenace, global flows 
-  - home automation - includes: server, cove lighting, solar, auna automation, media/NAS server
+  - home automation - includes: server, cove lighting, solar, auna automation, media/NAS server, poe, cameras
   - remote work setup: build extra screens x2, make mount for screens, get lipo4 batteries, install in car, 
   - drone stuff: get 30hrs flight sim, buy tiny whop and goggles, get 30hrs on real, buy real drone, fly dji, get hewing, build bigger aeroplane
   - electronics: make IR camera, make thumb pads for phone, get AR glasses.
